@@ -1,3 +1,3 @@
 # seamulate
 
-Workflow for sea level hydrodynamic simulations supporting multplie solvers.
+Workflow for sea level hydrodynamic simulations supporting multiple solvers.
